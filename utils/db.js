@@ -4,7 +4,7 @@ const db = mysql.createConnection({
     user: 'root',
     password: '',
     prot: 3306,
-    database: 'db_estante_virtual',
+    database: 'bd_minha_estante',
     multipleStatements: true
 });
 
